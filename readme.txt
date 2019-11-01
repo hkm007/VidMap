@@ -1,9 +1,3 @@
-TEAM - SHEILD
-
-Himanshu kr. Mishra
-Deepraj Baidya
-Harshit Jain
-
 PROJECT - VIDMAP
 
 DESCRIPTION - It is a web app which shows all the videos related to techfest of 
