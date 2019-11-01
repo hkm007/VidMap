@@ -1,4 +1,4 @@
-PROJECT - VIDMAP
+PROJECT - VidMap
 
 DESCRIPTION - It is a web app which shows all the videos related to techfest of 
 	      NIT Agartala. Also this app has a google map of NIT Agartala.
